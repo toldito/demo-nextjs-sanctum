@@ -2,7 +2,15 @@
 
 ## Getting Started
 
-First, install dependencies
+First, copy .env file
+
+```bash
+cp .env.example .env
+```
+
+And configure yout correct variables
+
+After, install dependencies
 
 ```bash
 npm install
@@ -12,7 +20,7 @@ yarn install
 pnpm install
 ```
 
-Second, run the development server:
+Finally, run the development server:
 
 ```bash
 npm run dev
@@ -22,4 +30,4 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+And open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
