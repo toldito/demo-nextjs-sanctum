@@ -1,4 +1,4 @@
-# NextJS with Laravel Auth
+# NextJS with Laravel Sanctum Auth
 
 ## Getting Started
 
